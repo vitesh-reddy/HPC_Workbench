@@ -1,0 +1,5 @@
+# Force .txt files to be treated as plain text (not LaTeX)
+*.txt linguist-language=Text
+
+# Optional: you can also hide profiling outputs from language stats
+gmon.out linguist-detectable=false
